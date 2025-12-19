@@ -80,7 +80,6 @@ The solution runs locally on a standard CPU without requiring internet connectiv
 ---
 
 ## 👨‍💻 Author
-
-**Sudheer Ravi**
-B.Tech – Computer Science and Engineering
-VIT-AP University
+ Sudheer Ravi
+ B.Tech – Computer Science and Engineering
+ VIT-AP University
