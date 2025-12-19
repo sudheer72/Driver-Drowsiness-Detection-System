@@ -39,7 +39,7 @@ The solution runs locally on a standard CPU without requiring internet connectiv
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/driver-drowsiness-detection.git
-````
+
 
 2. Install required dependencies:
 
@@ -51,8 +51,6 @@ The solution runs locally on a standard CPU without requiring internet connectiv
    ```bash
    python drowsiness_detection.py
    ```
-
----
 
 ## 📊 Performance
 
